@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background:gray
+
+}
+p{
+    color: aquamarine;
+}
+aside{
+    text-align: right;
+    color: rgb(221, 9, 115);
+}
+a{  
+text-align: end;
+}
+ 
